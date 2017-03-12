@@ -1,0 +1,15 @@
+{
+    "name": "egor/test-proj",
+    "description": "test-proj",
+    "authors": [
+        {
+            "name": "Egor Shulakov",
+            "email": "shulakove@gmail.com"
+        }
+    ],
+    "require": {
+    },
+    "autoload": {
+        "psr-4": {"TestProject\\": "src"}
+    }
+}
